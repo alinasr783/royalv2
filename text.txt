@@ -1,0 +1,22 @@
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	.replit
+	client/index.html
+	components.json
+	drizzle.config.ts
+	package-lock.json
+	package.json
+	postcss.config.js
+	server/
+	shared/
+	tailwind.config.ts
+	text.txt
+	tsconfig.json
+	vite.config.ts
+
+nothing added to commit but untracked files present (use "git add" to track)
